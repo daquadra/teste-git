@@ -14,6 +14,7 @@
     <ul>
         <li>Nome: <a href="#">Madson Lima</a></li>
         <li>Profissão: <a href="#">Programador PHP</a></li>
+        <li>Civil: <a href="#">Casado</a></li>
     </ul>
 </section>
 
